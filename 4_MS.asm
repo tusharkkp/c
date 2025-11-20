@@ -1,4 +1,6 @@
-; Source: /mnt/data/202401040191_COA_3.pdf :contentReference[oaicite:0]{index=0}
+Write an ALP to accept the 64 bit numbers from user, perform arithmetic operations on them, and display the 
+result.i) Multiplication ii) Subtraction
+
 
 %macro WRITE 2
     mov rax, 1
