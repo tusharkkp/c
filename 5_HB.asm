@@ -1,4 +1,5 @@
-; Source: /mnt/data/202401040191_COA_4.pdf :contentReference[oaicite:0]{index=0}
+Write an ALP to convert 64 bit Hex number into its equivalent BCD number
+
 
 %macro WRITE 02
     mov rax, 1
